@@ -1,4 +1,4 @@
-# Statistics projects
+# Statistics_projects
 ## Monte Carlo
 This project is using monte carlo method for prediction of covid 19 trends.
 
