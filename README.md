@@ -10,7 +10,7 @@ Data origin: https://datadashboard.health.gov.il/COVID-19/general
 
 # kaggle_competitions
 
-## disaster_tweets
+## disaster_tweets - WIP
 https://www.kaggle.com/competitions/nlp-getting-started/overview
 Predict which Tweets are about real disasters and which ones are not
 
