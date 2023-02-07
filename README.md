@@ -1,3 +1,8 @@
+# classic_ml
+## Unsupervised Clustering
+
+Implementation of kmeans and DB-scan including parameters selection and results comparison
+
 # Statistics_projects
 ## Monte Carlo
 This project is using monte carlo method for prediction of covid 19 trends.
