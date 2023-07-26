@@ -37,3 +37,9 @@ Predict which Tweets are about real disasters and which ones are not
 https://www.kaggle.com/competitions/contradictory-my-dear-watson/overview
 Label each two sentences - are they entailment/neutral/contradiction.
 
+#Visualisation
+## Complex visualisation:
+Sankey diagram for multi-levels feature (sport.football,sport.basketball.nba)
+Smoothing function
+Confidence interval bar chart function - for AB testing
+##Cheat sheet for plotly graphs
