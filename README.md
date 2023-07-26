@@ -1,4 +1,4 @@
-# MS Final Project
+# MS Final Project - Sentiment Analysis
 My final project for MS: Deep Learning vs. Traditional Machine Learning for Sentiment Analysis: A Performance Comparison 
 
 Including:
