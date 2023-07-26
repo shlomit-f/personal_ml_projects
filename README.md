@@ -7,6 +7,16 @@ Implementation of kmeans and DB-scan:
 3. Models' training
 4. Results comparison including PCA visualisation, DB-scan score and simple counters.
 
+## CTR prediction
+Prediction of CTR:
+1. EDA
+2. Handeling missing values
+3. Feature engineering
+4. Scaling & Standartization
+5. Handeling unbalanced dataset (ADASYN)
+6. prediction models: KNN, XGBoost, Random Forest
+7. Explainable AI - SHAP
+
 # Statistics_projects
 ## Monte Carlo
 This project is using monte carlo method for prediction of covid 19 trends.
