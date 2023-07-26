@@ -1,0 +1,200 @@
+op_id,timestamp,state,user_isp,app_id,app_cat,banner_pos,manufacturer,device_model,device_version,device_height,device_width,resolution
+63166542-e886-492f-8ff3-4d4f24c03363,1569363301,Minnesota,Savage Communications,59da3a2,games - board,bottom-right,Samsung,SM-S727VL,6.0.1,720,1280,TRUE
+411ef0c9-2bdc-48ea-ad87-1f257445efcf,1568625996,Wisconsin,Spectrum,pnomoth,games - puzzle,left,Samsung,SM-G920R4,7,1920,1080,TRUE
+36ad3f28-87dc-4843-963a-43908e120038,1570769732,Florida,Spectrum Business,3tsgr77,unknown,bottom-right,Motorola,Moto E4,7.1.1,720,1280,TRUE
+29051da4-d042-4513-9ff8-1946c6fdc9c7,1569689737,Arizona,Suddenlink Communications,dcoenhs,games - puzzle,bottom,Google,Pixel XL,9,1920,1080,TRUE
+5afed6da-ea4d-4eda-a21e-cc5ac341201f,1568791645,North Carolina,Spectrum Business,62cph6n,games - board,bottom-left,LG,LS676,6.0.1,720,1280,TRUE
+bd1b0273-4dfb-4cc3-9330-f6f301e97769,1571364621,California,T-Mobile USA,thoq4po,games - puzzle,right,LG,MP450,7,1920,1080,TRUE
+e539f452-5c85-4ff7-ae9c-ef659a17c9d9,1569907475,Washington,Comcast Cable,2fgf66e,games - puzzle,top-left,,,8.1.0,2220,1080,TRUE
+58ec9f1d-647d-44ac-806f-adc62351e5c0,1569983608,Texas,T-Mobile USA,qrs4dpe,games - action,center,ALCATEL,A574BL,7.1.1,480,854,TRUE
+28a94c04-bddd-4e37-bf02-6b22ab7527c1,1567304273,Texas,T-Mobile USA,r913rce,games - card,top-left,,,7,1280,720,TRUE
+d0f052ea-022d-457c-9764-1e5a3cc93132,1569784672,Indiana,Spectrum,s244np7,unknown,center,Samsung,SM-S120VL,6.0.1,800,480,TRUE
+32c11bba-4f14-4a91-af8a-1b753761e809,1571625273,Illinois,T-Mobile USA,9p8cp37,games - casual,top-right,,,8.0.0,1280,720,TRUE
+8cdc30ea-1efb-4b2f-aaa3-4ca24f91760d,1568394407,Rhode Island,Cox Communications,mc8dtso,games - card,bottom-left,HTC,U11 life,8.1.0,1280,720,TRUE
+8630e740-fe03-45ae-8695-d744ca69ba98,1570365251,Florida,AT&T Wireless,rhd3o1o,games - role_playing,bottom-left,Samsung,SM-T337A,6.0.1,1280,800,TRUE
+8fa941f0-785d-4dbe-ac6e-b972d9bc3d77,1564713540,Florida,T-Mobile USA,dsnoe8t,games - card,bottom,,,7.1.1,720,1280,TRUE
+ed365499-f706-406d-89f1-11e19cffaa2f,1570044029,California,T-Mobile USA,nasd91p,games - simulation,bottom,LG,LM-X210(G),7.1.2,720,1280,TRUE
+716a7ee1-70bc-4843-9d65-27524c0f7723,1568928482,Indiana,Frontier Communications,56apgn5,games - simulation,top-left,Samsung,SM-T377V,6.0.1,1280,800,TRUE
+927af902-7994-4060-b2d2-fb2cba47a48e,1565325342,Utah,T-Mobile USA,3hdp1hq,games - casual,right,,,7,720,1280,TRUE
+76675f7a-8b26-4b5c-9757-098399a12193,1569818818,South Carolina,Spectrum,pm8haf6,games - puzzle,top-left,Samsung,SM-S327VL,6.0.1,1280,720,TRUE
+460f7b3d-ed81-44be-b6e1-f90df0045811,1568316733,Ohio,AT&T U-verse,3sc85qr,unknown,bottom,Motorola,XT1565,7.1.1,1080,1920,TRUE
+a4e19035-2651-46b5-a2c0-b34f52ca883f,1566380651,California,AT&T Wireless,qffnrcg,games - board,bottom-right,,,6.0.1,480,854,TRUE
+5c96ba69-ba8d-49a9-975b-43744ae63bc5,1568410973,California,T-Mobile USA,7cpc8o7,games - sports,bottom,Oneplus,A5010,8.1.0,2160,1080,TRUE
+d013280b-7bdb-4ffe-aa69-4ac6c6333dcd,1572114316,Illinois,Comcast Cable,h4f5s31,games - casual,left,LG,V521,6.0.1,1920,1200,TRUE
+96f28045-6dcd-46cb-ab1c-2d4135ce7255,1565209366,California,T-Mobile USA,hncm96e,games - puzzle,bottom,,,8.0.0,1632,918,TRUE
+27667031-803f-4444-a5c0-faa396c751b1,1566090089,North Carolina,Suddenlink Communications,7c8n1eh,unknown,center,,,6.0.1,1920,1080,TRUE
+5764ccec-f2ac-48bb-821f-2cb44e1f5ba2,1571084051,Georgia,NuLink,6tehn46,unknown,top,LG,H932,8.0.0,2880,1440,TRUE
+f3e6c84d-83fc-4b9b-a4d8-a496d999fade,1571245596,Colorado,T-Mobile USA,7erhatp,games - simulation,center,Samsung,SM-J327T1,7,720,1280,TRUE
+582bb865-a30a-4a5d-a9ad-d3f2abc0f17a,1569160857,Florida,Spectrum,rcpc8rp,tools,top,Samsung,SM-G920T,7,2560,1440,TRUE
+102953c0-77c9-400a-9fa0-f24f8984a9cb,1567536515,Florida,AT&T Wireless,59da3a2,games - board,top,,,8.1.0,720,1280,TRUE
+52230358-b8f3-4ea8-81f6-fe5d188e2633,1569253478,Texas,Sprint PCS,8ngnp3f,games - casual,right,Samsung,SM-G935P,8.0.0,1080,1920,TRUE
+0788b900-23c5-4adb-8dde-8a2564f029c7,1570587094,North Carolina,Sprint PCS,9t8rm7p,games - strategy,bottom-right,LG,LS676,6.0.1,720,1280,TRUE
+5bd0a940-1822-48a8-aa27-81c3199bed65,1567430424,Illinois,T-Mobile USA,6rat3ee,games - simulation,top-left,,,8.0.0,720,1280,TRUE
+1ab91630-e57c-4b20-8653-da8cadd31cb2,1566120610,Florida,T-Mobile USA,th2179p,unknown,bottom-left,,,7,1280,720,TRUE
+dea14a76-7a1c-4c32-86fd-3b698f028e0c,1569473388,Illinois,Comcast Cable,19f4a3a,games - puzzle,top-left,ZTE,Z851M,7.1.1,854,480,TRUE
+6285181c-7ca9-4ecd-a2f7-ed62476a1d28,1568899870,Texas,Sprint PCS,59da3a2,games - board,bottom-right,LG,LS777,7,720,1280,TRUE
+4bc7463f-b958-4645-a465-e4a261a169b7,1572223995,Florida,Verizon Wireless,apo1rnr,games - card,left,Google,Pixel,8.1.0,1920,1080,TRUE
+e45e41b4-f748-4dd5-b272-3d285c405218,1566764284,Pennsylvania,Comcast Cable,e7rcdg4,unknown,left,,,8.0.0,1080,1920,TRUE
+e0eb76e6-16ab-4597-8d80-b8ae44d2c403,1573393166,Missouri,Socket Internet,oaamq41,unknown,bottom-right,Motorola,Moto E4,7.1.1,720,1280,TRUE
+e6eb66b0-3ca5-41b8-a156-7245ae84bd6c,1571936146,Florida,Spectrum,h7gf6p7,games - casual,top-left,ALCATEL ONE TOUCH,6045O,6.0.1,1920,1080,TRUE
+0e3c0b09-43df-4e8f-93ad-cae77cb7091f,1570131028,Florida,Comcast Cable,8aq197n,unknown,top-left,LG,MS210,7,720,1280,TRUE
+4d44971f-c9c2-480f-a5f1-d29e246b0272,1571956453,Texas,AT&T Wireless,7tegm2t,games - puzzle,top,Samsung,SM-J327A,7,1280,720,TRUE
+f03cbe8f-3611-445c-b8e8-90a1bee10013,1570125358,Illinois,AT&T Wireless,s8nhmqo,games - casual,top-left,Samsung,SM-G891A,8.0.0,1920,1080,TRUE
+c8f1c5d8-75be-43e7-83ca-2a9337d81858,1572306520,Texas,Spectrum,9ro5ert,games - simulation,top,LG,MS631,6,720,1196,TRUE
+cdb184f1-878a-4d77-8a22-9c56d31b9ad7,1566126631,Louisiana,Cox Communications,3p64hsp,games - word,top-right,,,8.0.0,1280,720,TRUE
+a8dbf844-3b91-4324-a324-8a2f37cff647,1572583606,Washington,Wave Broadband,m1mh7o2,games - action,top-left,LG,MP260,7,720,1280,TRUE
+bef19dcc-124b-4f78-8a96-1a4faec695b3,1571413106,Michigan,T-Mobile USA,mpfe5s6,unknown,center,Motorola,E Play (5th Gen.),8.0.0,1184,720,TRUE
+59a6854f-2f05-475f-a6b6-8b4bb5eef252,1572121042,South Carolina,AT&T Wireless,cdcs6pd,games - arcade,bottom,Samsung,SM-J320A,6.0.1,1280,720,TRUE
+a7c48546-7f72-4692-8390-fefb89463f8c,1569784788,California,T-Mobile USA,eo1shtf,unknown,top-left,Samsung,SM-J327T1,7,720,1280,TRUE
+899f3831-989b-41cf-b879-f0736ce444f2,1565958140,Oklahoma,Cox Communications,ddp3eer,unknown,top-right,,,7.1.1,1280,720,TRUE
+e85ad25f-ef2a-4b7a-985d-36a9f212ed6f,1568273581,Illinois,T-Mobile USA,68orace,games - casino,bottom,ZTE,Z718TL,6.0.1,480,800,TRUE
+91ae30ab-cd65-4c5c-910b-c6dbada89167,1571787676,Nevada,CenturyLink,q6mp113,unknown,right,LG,MP450,7,1080,1920,TRUE
+de2d5f36-d5dc-4fdd-8aa2-d7b939997235,1571083441,Iowa,Mediacom Cable,hgsqp2t,games - card,bottom-left,Google,Pixel XL,9,2560,1440,TRUE
+2b5a689c-7f2f-4992-a1d7-474108388815,1570484885,Louisiana,AT&T U-verse,d7nfmfh,games - action,bottom-left,ZTE,Z831,6.0.1,480,854,TRUE
+58458e1d-3565-40cc-8cdf-6bac3b10bc76,1573428101,Ohio,AT&T U-verse,6736hps,games - adventure,center,Motorola,Moto E4,7.1.1,720,1280,TRUE
+e3459b01-a086-446e-b574-95b125a23351,1571515098,Texas,T-Mobile USA,se4ttc6,games - action,bottom,Samsung,SM-J327T1,7,720,1280,TRUE
+8c9ae8e5-35d1-45fe-8607-3b595f6e5180,1570045437,Georgia,AT&T U-verse,og74g9e,games - simulation,top,Motorola,Moto E4,7.1.1,720,1280,TRUE
+b3e35b39-8da9-4ef2-ae9f-6f7ff0cb30eb,1569796546,California,Verizon Wireless,oe5hcq3,games - simulation,bottom-right,Samsung,SM-J737V,8.0.0,720,1280,TRUE
+85533fc0-7eae-4571-847e-35b3cb903fb0,1570925906,Massachusetts,T-Mobile USA,apo1rnr,games - card,right,Samsung,SM-J327T1,7,1280,720,TRUE
+879a694d-eb92-421f-9a0f-502bec1dbed7,1564841540,New York,Optimum Online,noo53m3,games - arcade,top-right,,,7.1.1,854,480,TRUE
+f1343fef-c87e-481f-a1c5-79f8f56cffc2,1569791264,Texas,Windstream Communications,p9ct152,games - casino,left,Samsung,SM-J327A,8.1.0,720,1280,TRUE
+7deda392-c7bd-4b18-8952-ae7a2ff4ca35,1570547424,North Carolina,Spectrum,3952689,games - simulation,bottom-left,Google,Pixel XL,9,1440,2560,TRUE
+ed6617d2-d4d3-46f5-903d-bee430066982,1569519412,Illinois,Sprint PCS,59da3a2,games - board,top-right,LG,SP200,7.1.2,720,1280,TRUE
+27c4d4ab-348b-456a-bbba-0babe4500e5b,1567997224,Wisconsin,CenturyLink,fc65fd9,games - role_playing,left,Samsung,SM-S120VL,6.0.1,480,800,TRUE
+635be457-db95-4d75-8463-c88f966685e8,1565694048,Texas,T-Mobile USA,47sn36p,games - arcade,left,,,7.1.2,1280,720,TRUE
+6f16e7c6-284f-40df-90ab-f3f699d9732f,1569684433,Massachusetts,T-Mobile USA,mc8dtso,games - card,top-left,Samsung,SM-G930T,8.0.0,1920,1080,TRUE
+5ed0c5cc-05f8-41a5-bba3-272552014aec,1569082666,Illinois,Verizon Wireless,h4hh2tq,games - card,center,Samsung,SM-T377V,7.1.1,1280,800,TRUE
+de2511e5-24c5-46c4-96c4-c7b202c57f92,1565326943,Washington,Spectrum,5f8or52,games - strategy,top-right,,,6.0.1,1280,720,TRUE
+a48c84b9-4912-4075-8044-24cf82958054,1569745112,California,Comcast Cable,5164n7q,games - casual,right,,,8.1.0,2160,1080,TRUE
+bea84d0b-ccf3-4032-8ac8-d4ef712cd366,1569527357,New York,Spectrum,3oq54d1,games - adventure,top-left,Samsung,SM-S327VL,6.0.1,720,1280,TRUE
+8ade73e7-abfc-4661-b6ec-73315a92d1c1,1565197604,Florida,T-Mobile USA,c4nm8ch,games - card,top-left,,,8.0.0,1536,864,TRUE
+c766c3ce-69d7-4cea-a9ed-c4ece27901ca,1570318858,Michigan,Verizon Wireless,q6qqm7q,games - simulation,top-left,Verizon,QTASUN1,6.0.1,1920,1200,TRUE
+e2b622d4-a9c6-4261-b973-2c7dfb2a8ad9,1565417730,North Carolina,Spectrum,hhs4fdr,games - puzzle,top,,,6.0.1,1920,1080,TRUE
+027a2ca5-0f44-4d74-82f1-0e57ac377577,1570918084,Massachusetts,Verizon Fios,n64a383,games - casino,top-right,Samsung,SM-G900P,6.0.1,1920,1080,TRUE
+f6616936-f12b-4817-8777-504f55664cfb,1569504272,California,AT&T U-verse,gs557dn,entertainment,top-right,Samsung,SM-G930A,8.0.0,1920,1080,TRUE
+bc5756b9-ddc1-4963-90c0-afddf4f66542,1565851546,California,Zenlayer,47n7og3,games - adventure,bottom-left,,,7.1.1,1080,1920,TRUE
+6cd1c9de-259a-46dd-80da-50454e044e55,1569095005,New York,T-Mobile USA,opae8ed,games - arcade,center,Samsung,SM-J327T1,7,720,1280,TRUE
+e4b50368-e964-451f-aec8-2bff88e19f2d,1569109415,New York,Optimum Online,rd48gq4,unknown,top,LG,LS676,6.0.1,720,1280,TRUE
+871e1883-5b9d-4217-88a4-526b776929fd,1568933808,Pennsylvania,T-Mobile USA,1gp95nt,unknown,top,Samsung,SM-J327T1,7,1280,720,TRUE
+3a2d5ed9-3a0b-4f97-801f-9ad785bc7d05,1566849612,Maryland,Sprint PCS,g5d9gdp,games - puzzle,center,,,6.0.1,1280,720,TRUE
+a9960968-4565-4a1c-acd5-0cba17141cfb,1567506434,New York,Optimum Online,13o9a2n,games - casual,top-right,,,7.1.2,720,1280,TRUE
+bf278057-9516-4c15-a6cf-315a887da9cf,1571853966,South Carolina,T-Mobile USA,7se8m9p,unknown,top-left,,,8.1.0,2160,1080,TRUE
+241f8845-801d-403c-90d5-04f48e71ddaa,1570473947,Missouri,Sprint PCS,794n761,games - casino,bottom-left,Motorola,Moto E (4) Plus,7.1.1,720,1280,TRUE
+a704c2ff-6df2-4796-b8b4-1a9b4afa720e,1569082447,Michigan,Spectrum,cp4hq3q,unknown,bottom,Samsung,SM-N920P,7,1080,1920,TRUE
+ef4ae744-ce97-44b0-b7d8-d3ecb1fe0cdb,1566504871,Texas,AT&T Wireless,2fgf66e,games - puzzle,left,,,7,1920,1080,TRUE
+fc3f4c10-b18c-47f8-ae3f-f8af755829b5,1569430354,Washington,T-Mobile USA,tc94qrp,games - puzzle,bottom-right,,,8.1.0,2160,1080,TRUE
+b60704ed-f132-405d-9a28-b73e2c2adb7a,1573251612,North Carolina,Spectrum,t3fro35,games - word,top,Samsung,SM-S327VL,6.0.1,1280,720,TRUE
+7d8df5ba-d7da-4328-b49d-beb53c986b68,1567163519,Florida,AT&T Wireless,953hqtd,unknown,bottom-right,,,8.0.0,1080,1920,TRUE
+7e8a3d69-5729-457e-8431-134daa23feaf,1568794854,Oregon,Comcast Cable,m23oqs7,games - arcade,right,Motorola,Moto G (5th Gen S.),7.1.1,1776,1080,TRUE
+e79396f6-7b4b-45d1-b5fc-a379ad7dd800,1571875083,Tennessee,T-Mobile USA,3d636a6,games - word,bottom-left,LG,MS210,7,1280,720,TRUE
+c84f4a23-5f0d-47c9-b9b1-8d34571ce819,1567638708,Oklahoma,Cox Communications,oemq554,unknown,bottom-right,Samsung,SM-G925A,7,1920,1080,TRUE
+78872f7b-dae0-458c-9fc0-b8eba9093737,1566327569,Illinois,Comcast Business,rr5re55,games - casual,top-left,,,8.0.0,1080,1920,TRUE
+cba3ee18-13e9-491e-b456-333003906d3e,1567836090,Iowa,Waverly Utilities,pdn1eof,games - racing,bottom-left,Samsung,SM-G955U,8.0.0,1080,2220,TRUE
+f9ec02d5-86b7-4396-b2d5-62508b99c173,1568133134,New York,AT&T Wireless,14n72hn,unknown,bottom-right,Samsung,SM-G960U,8.0.0,1080,2076,TRUE
+7f0e3fad-8e6b-448a-bc36-b53661d2c66f,1569700494,Florida,AT&T Wireless,2nqgacs,unknown,left,Sony,H3223,8.0.0,1080,1920,TRUE
+cf8ff643-7e81-4079-808c-adfb84447946,1572329032,California,T-Mobile USA,1r11q87,games - card,left,Samsung,SM-N920C,7,1080,1920,TRUE
+e7f97fd8-f149-45f0-9d85-4c5271a87818,1568122785,California,Frontier Communications,smtodog,games - word,bottom-left,ZTE,Z965,7.1.1,1280,720,TRUE
+1df8018d-4230-4f2b-acc9-651c95013c72,1569134962,Massachusetts,Comcast Cable,mc8dtso,games - card,top-left,Samsung,SM-G955U,8.0.0,2094,1080,TRUE
+737e7a68-a3de-44c1-9bbb-8fcf2ae947f0,1567080922,Maryland,Verizon Fios,2ag5c4n,games - arcade,top-left,,,8.0.0,2220,1080,TRUE
+9a0f10bb-0d9a-4d40-8fee-ff9f28bc99d9,1567244637,Florida,Mediacom Cable,9pn2h1r,games - word,right,,,6,1280,800,TRUE
+c9e378c0-8472-4acc-9cc9-4b823ee6730b,1569712276,New Mexico,CenturyLink,aeemfrg,games - action,left,ZTE,Z839,7.1.1,480,854,TRUE
+ed9ca76a-c02f-498c-8a6a-9ef241b58d27,1565077054,New York,Spectrum,ptq9r12,games - arcade,left,,,7,1280,720,TRUE
+40d66484-5cbc-4081-95d0-7f98368c4043,1567458311,Texas,AT&T U-verse,dqtteqf,personalization,left,,,7.1.1,800,480,TRUE
+f3faca15-3dac-4852-9e91-be47a75e0820,1569220230,Georgia,AT&T Wireless,mc8dtso,games - card,top-left,Samsung,SM-G930A,8.0.0,1920,1080,TRUE
+4a7ef4eb-c65c-4566-b19e-b6e8d3a3bcad,1566797098,Tennessee,T-Mobile USA,1f22mo3,games - action,center,,,7.1.1,1080,1920,TRUE
+7911781c-418a-431b-a75c-2a2f8d251554,1566018414,California,T-Mobile USA,3hmt88c,games - simulation,bottom-left,,,7,720,1280,TRUE
+55ed5076-edfa-4c0c-b9ae-48081e064b3c,1566007496,Texas,Spectrum,c4nm8ch,games - card,right,,,7.1.1,720,1280,TRUE
+0ff54623-d3b1-4d47-88e3-1cbb14d45e9c,1571690088,Kentucky,Spectrum,3r9scho,games - racing,bottom-right,ALCATEL,A574BL,7.1.1,480,854,TRUE
+3587fe14-31c3-42ed-9bf3-adf8153289fb,1572190634,Georgia,Verizon Wireless,2h9mg1d,games - casino,top,,,8.0.0,1280,720,TRUE
+a1a16a65-89ff-412d-9544-c4a788c223d2,1567249400,Alabama,WideOpenWest,d5aqshc,games - sports,center,,,7,720,1280,TRUE
+fcc7d8a0-094b-4314-a334-80215d7a7d9e,1570145240,California,T-Mobile USA,6cgt6mg,games - puzzle,right,LG,LM-X210(G),7.1.2,720,1280,TRUE
+cbc93f04-e808-419e-a7f4-5b649632b930,1566503773,North Carolina,Spectrum,74193f6,games - card,bottom-right,,,6.0.1,1536,864,TRUE
+342b1d63-c79d-49e2-90d5-810661606e2f,1566389987,Texas,AT&T U-verse,g6sa77d,games - word,bottom-right,,,8.0.0,1632,918,TRUE
+2bba9486-f410-41c5-bbc0-d10c064650b3,1572560273,Texas,T-Mobile USA,gstn212,unknown,center,Motorola,Moto E4,7.1.1,1280,720,TRUE
+67ee2efc-ff86-45f1-b4a9-5fd97b8e7417,1570055129,New York,Spectrum,47q1h5n,entertainment,top-left,LG,LM-X210(G),7.1.2,1280,720,TRUE
+ce551e54-e7a5-4348-81d9-fef8149fe4d7,1564509384,Texas,Sprint PCS,f56ags5,games - sports,top-right,,,7,1280,720,TRUE
+8c5932ba-0894-4823-9b2a-b7495cba8062,1565139773,Nebraska,Cox Communications,noo53m3,games - arcade,center,,,6.0.1,1280,720,TRUE
+2099b5f8-2afc-4227-92a4-f19ca6caa522,1571939778,Pennsylvania,Sprint PCS,4d5oac8,unknown,bottom-left,LG,LS676,6.0.1,720,1280,TRUE
+4a98bd90-fa09-4268-8c8e-767cd8724984,1569337714,Minnesota,CenturyLink,c6m561e,games - board,right,Samsung,SM-G950U1,8.0.0,1080,2220,TRUE
+9133cb39-d67e-4ede-9f88-2ff0acc1c98b,1572232235,Florida,Comcast Cable,t19rd63,unknown,bottom-left,ZTE,Z899VL,7.1.1,854,480,TRUE
+522e5d13-87aa-4607-9c5c-f805c61644d4,1565912109,Nebraska,Cox Communications,97qmg9o,unknown,bottom-right,,,8.0.0,1080,1920,TRUE
+a7b51f32-3869-4661-bcd8-39bfb5dc9bbc,1568488502,Georgia,Comcast Cable,sshsm8s,tools,top,Samsung,SM-J327P,6.0.1,1280,720,TRUE
+669ee662-c165-4986-9440-83e80bf9f13d,1566839685,Indiana,"Smithville Digital, LLC",pcn5pnt,games - puzzle,right,,,8.0.0,2220,1080,TRUE
+e7b88420-ac61-41c2-8259-9adbecdbfd85,1566509337,Texas,Verizon Wireless,mc8dtso,games - card,bottom-right,,,8.0.0,1920,1080,TRUE
+7d3df61b-f365-4284-94f2-c201e243942e,1565987787,California,AT&T Wireless,47sn36p,games - arcade,top,,,8.0.0,1280,720,TRUE
+275db140-5a11-4e22-a71f-1985050606a9,1565273594,California,AT&T U-verse,ccg5ftn,games - casino,top-left,,,7,480,854,TRUE
+548ebdc9-9daa-44a9-9f88-4d3e5d4e66c5,1571419397,New York,AT&T Wireless,apeeq25,games - card,right,ZTE,Z851M,7.1.1,854,480,TRUE
+9d9dbf7e-e582-46ec-bdee-2e58065d119c,1566688309,California,Frontier Communications,82t4dn5,games - action,center,,,7,720,1280,TRUE
+b728042f-8c36-48c8-aaec-e4fe7d9c6797,1569362023,Louisiana,AT&T Wireless,sc85qa6,games - arcade,top,Samsung,SM-G920AZ,7,1080,1920,TRUE
+0daa7194-9e19-4b37-9f25-55e71ea1df1f,1569528318,Texas,T-Mobile USA,m8ndc7r,unknown,center,ALCATEL,5049Z,7,720,1280,TRUE
+700c3a9a-544b-4e9f-b265-c50fae758c64,1571444034,Massachusetts,Verizon Internet Services,3q8t2q1,games - arcade,bottom-right,LG,LM-X210(G),7.1.2,720,1280,TRUE
+892a1d7b-e428-4c90-b5a5-6f4f0f5ed129,1570145060,Illinois,AT&T Wireless,tc94qrp,games - puzzle,center,Samsung,SM-G892A,8.0.0,1440,810,TRUE
+2efb3536-d503-4e3a-9f37-7383e3d41919,1572307698,Delaware,Comcast Cable,rg8g9st,unknown,top-left,Samsung,SM-G900P,6.0.1,1920,1080,TRUE
+441548d8-4b34-4c2b-9782-5153c631f0ff,1569189700,Wisconsin,Comcast Cable,ppo6th4,games - simulation,top-right,Samsung,SM-G930R6,8.0.0,918,1632,TRUE
+1928cc76-7dd9-490e-a128-7d3edf40d5d0,1569343172,New York,Spectrum,g6ae557,unknown,top-left,Samsung,SM-N920T,7,1080,1920,TRUE
+981d39a4-aad8-4531-ba3e-182ddb221a89,1569524951,Massachusetts,T-Mobile USA,qhhd118,games - simulation,left,Samsung,SM-J327T1,7,720,1280,TRUE
+30f57cb1-8fb7-439a-9c14-b94dc5604123,1569758962,Missouri,Sprint PCS,1dgq1tf,games - puzzle,right,ZTE,N9517,7.1.1,1280,720,TRUE
+8bf8b185-a9c0-47e1-8ec3-8c17dc92babb,1570488957,California,T-Mobile USA,7d13sgc,games - simulation,top-right,LG,LM-X210(G),7.1.2,720,1280,TRUE
+57845800-45cd-4239-9179-5a9359bc596c,1567426600,New York,Verizon Fios,1ah9h4f,unknown,top,,,7,480,854,TRUE
+c21ad337-fcc4-4113-895e-8dd6b31d04be,1568835643,Washington,T-Mobile USA,9dtaagr,games - puzzle,top-left,Samsung,SM-G950U,8.0.0,1920,1080,TRUE
+25451d01-a47f-4ae0-8aeb-5929e26ed8a2,1564877521,California,AT&T U-verse,noo53m3,games - arcade,top-left,,,8.0.0,1480,720,TRUE
+c3e1d023-ca1e-4d86-854f-3a0a49556708,1570587438,California,T-Mobile USA,a1co1oq,entertainment,right,Samsung,SM-J327T1,7,1280,720,TRUE
+21f80295-9abc-407e-8dfd-a8b9d14c4206,1573297963,Indiana,Spectrum,atd1r6o,games - simulation,top,ALCATEL ONE TOUCH,4060O,6.0.1,854,480,TRUE
+037b5544-a3d3-4e5d-a3da-3c75254af2e3,1572062165,Mississippi,AT&T U-verse,n4t4q9p,unknown,bottom,Samsung,SM-J327A,7,1280,720,TRUE
+97cbf414-4f28-467c-b90c-1174d147f145,1567530199,Minnesota,T-Mobile USA,d24hncs,unknown,top-right,,,7,720,1280,TRUE
+ae3bb834-af1d-4896-bb52-2ca229115777,1573098916,Georgia,T-Mobile USA,711aetm,games - action,top-right,ZTE,Z986DL,7.1.1,1080,1920,TRUE
+2467195f-a095-4d6e-9df0-da7f1e66a850,1569934520,North Carolina,Spectrum,gs6eeaq,games - action,top,Lenovo,TB-8504F,7.1.1,1280,800,TRUE
+8987e811-0c9c-48ce-89bb-099cbdc4d273,1565915086,New York,Optimum Online,3m5haeq,unknown,top-right,,,8.0.0,1080,1920,TRUE
+0fa95af5-af67-4eee-901d-26b4d13ac2fe,1568844636,Tennessee,Sprint PCS,o4mfrsp,games - simulation,top-right,Samsung,SM-J737P,8.0.0,720,1280,TRUE
+fab1be90-feaa-49f0-b8cd-81654eac0d7c,1565934596,California,Spectrum,mnp63ac,games - puzzle,right,,,7,1280,720,TRUE
+efe26f3d-1cd9-42a0-9eda-0682f39ee4ef,1569982652,Maryland,AT&T Wireless,5a8935q,entertainment,right,Samsung,SM-J327A,7,1280,720,TRUE
+d5f12887-819c-4103-ae02-9166ee1316d3,1565852253,Florida,Sprint PCS,2fgf66e,games - puzzle,top-left,,,7,1920,1080,TRUE
+90a027d2-e1a9-4e48-9257-a945489d8205,1566688051,Nevada,Cox Communications,pcn5pnt,games - puzzle,top-left,,,7,1920,1080,TRUE
+8d953e85-f172-408f-97ea-ab1db708f831,1569455495,District of Columbia,Vector Data Systems LLC,ph19a1g,games - casual,top-left,Coolpad,3632A,7.1.1,854,480,TRUE
+b0c2c265-3261-4c9d-8042-922e5bba66af,1567534589,Massachusetts,T-Mobile USA,msh4n7p,unknown,right,,,7,1920,1080,TRUE
+8a6c720f-93c8-4c7b-81d3-8f5458c8af20,1566364570,California,Spectrum,nogdr9m,games - casino,right,,,7,720,1280,TRUE
+e3385f23-32a1-4d4e-9a97-5e5039b64f6c,1565144407,Texas,Verizon Wireless,c4nm8ch,games - card,top-right,,,7.1.1,1440,810,TRUE
+340be937-87e3-402e-b252-c62ffa1f4754,1565217921,Mississippi,AT&T U-verse,ra1go67,games - arcade,bottom-left,,,7,854,480,TRUE
+6782ddce-60b0-47a1-8a62-310300d93600,1570155016,Washington,Verizon Wireless,5r1oc51,games - simulation,center,LG,VS988,8.0.0,1440,2880,TRUE
+de41cbac-339b-4b77-bcc1-8fdfbe4fdbb6,1568751929,Tennessee,Verizon Wireless,t6h71pr,games - simulation,center,Motorola,XT1650,8.0.0,1440,2560,TRUE
+ec2561ad-8007-4759-929b-5862aa96258f,1568142248,Maryland,T-Mobile USA,so25s25,games - action,bottom,LG,L53BL,6.0.1,720,1280,TRUE
+692c86eb-f473-47d6-af81-3ff197e06fc2,1572367510,Illinois,Verizon Wireless,of75oh7,games - card,top-left,Samsung,SM-J320V,7.1.1,1280,720,TRUE
+3ff7ea0f-aaf9-40f6-9b8a-1977086d4d3a,1570800384,Georgia,T-Mobile USA,n78qfeo,unknown,top-right,Samsung,SM-J327T1,7,720,1280,TRUE
+99253d07-6309-4ff7-97bd-8bb94bfc3632,1570724553,Oklahoma,Dobson Technologies - Transport and Telecom Soluti,hgsqp2t,games - card,center,Samsung,SM-J327A,7,1280,720,TRUE
+7126aba9-f9b1-414b-b2fd-0131d74381ed,1567058513,California,T-Mobile USA,htfar6c,unknown,top,,,7,720,1280,TRUE
+445ea42f-369d-4ef7-ba14-824dbb26407e,1565175964,Connecticut,Atlantic Broadband,noo53m3,games - arcade,right,,,7.1.2,1280,720,TRUE
+b65c1e3c-d7f5-4931-be0f-0541a9679194,1566873460,Tennessee,Spectrum,57s7fch,games - role_playing,center,,,7.1.1,1280,720,TRUE
+e53222de-543e-47f7-b311-840bec5cea78,1569345884,Mississippi,CSpire Wireless,59da3a2,games - board,bottom,Samsung,SM-J327R7,7,720,1280,TRUE
+4a3df73d-a870-4bd1-93e3-b80796198a84,1571458963,California,Comcast Cable,dhdced3,games - arcade,bottom-right,LG,H791,8.1.0,2560,1440,TRUE
+c7f35dce-952a-48f9-9349-45f6c0bc88e1,1572215181,New York,Optimum Online,821gha9,games - action,top,Samsung,SM-J337P,8.0.0,720,1280,TRUE
+5d3636bd-b0d5-485f-9802-7ddc4eefb3dc,1568208934,Maryland,Sprint PCS,4reqfq2,unknown,bottom-left,LG,SP200,7.1.2,720,1280,TRUE
+b23df4cb-2c00-4d5c-9cbf-16c9e51ea019,1567268647,California,AT&T Wireless,o7hom97,unknown,bottom,,,7,480,854,TRUE
+655c7fbf-041a-4f9d-9e5a-ea2f6d1e5b8c,1566159376,Virginia,CenturyLink,99dh9r6,games - simulation,left,,,6.0.1,1280,720,TRUE
+56947c41-e1dc-413f-9299-5b703941b8a7,1569145724,Massachusetts,T-Mobile USA,mc8dtso,games - card,right,Samsung,SM-J727T,7,1280,720,TRUE
+5a614620-6259-40f2-bf58-e9e601415722,1567883849,Texas,T-Mobile USA,7413s5a,games - casual,left,Samsung,SM-J727T1,7,720,1280,TRUE
+0d6c23fc-1150-4903-99ab-4b1342b327a1,1570386041,Kansas,AT&T U-verse,5edn62h,entertainment,top,Samsung,SM-G925V,7,2560,1440,TRUE
+587063a5-1175-4b97-898b-158356e8b788,1572221915,Minnesota,T-Mobile USA,ehnnse5,games - puzzle,top-left,Motorola,Moto E4,7.1.1,1280,720,TRUE
+bc396c35-afce-4d52-bf15-b02d963ce29c,1573273949,Missouri,New Wave Communications,t3fro35,games - word,left,LG,M153,6.0.1,854,480,TRUE
+66753d0e-8aaa-4727-bda8-f003ecd16d5e,1565978130,Indiana,Verizon Wireless,3and7h2,games - board,right,,,8.0.0,1920,1080,TRUE
+ee586edc-718b-42c9-80aa-dade01578486,1565248637,Michigan,AT&T Wireless,c4nm8ch,games - card,right,,,7,1280,720,TRUE
+39440524-ed76-4c33-8c50-d6d6b9e73895,1569272819,Florida,T-Mobile USA,5moq2mq,unknown,top,,,7.1.2,1280,720,TRUE
+f0a0addb-c689-448f-b197-49b2696b8153,1569589798,Texas,T-Mobile USA,5sadta5,games - racing,left,LG,LM-X210(G),7.1.2,720,1280,TRUE
+1c917995-e7ff-4f37-8e1e-4d605b8f5d34,1569364468,Connecticut,Frontier Communications,rfnhg2s,games - action,bottom-left,HTC,Desire 626s,6.0.1,720,1280,TRUE
+8c8625cf-c838-46b5-bc4a-fd599be8fa7a,1564608994,Illinois,Sprint PCS,6rm7ag7,games - simulation,top-right,,,7.1.1,720,1280,TRUE
+66682e08-a8a9-4738-962d-2b187cc487c4,1568754823,Massachusetts,Verizon Wireless,psn9r2m,games - word,top-right,Samsung,SM-T377V,7.1.1,1280,800,TRUE
+072386b8-0d68-43fd-b3e3-a916701376e3,1569294058,California,Spectrum,mcdhcdc,games - arcade,top,Samsung,SM-G950U1,8.0.0,2220,1080,TRUE
+a9130d1c-c16e-468f-8152-28729c8e85a1,1566162038,Illinois,AT&T Wireless,47sn36p,games - arcade,bottom,,,7,1280,720,TRUE
+93dc1707-3990-443a-a802-5f9edeade39d,1572805085,California,Comcast Cable,q315nc5,games - arcade,top-left,LG,MP450,7,1920,1080,TRUE
+8573e8d1-3fce-4bbf-ad46-799b442e452e,1571455380,Florida,CenturyLink,n22t3d1,games - adventure,right,LG,LS777,7,720,1280,TRUE
+d95a4029-436c-421b-b9d1-cb8f02e197bb,1566503523,North Carolina,T-Mobile USA,pe2o4ag,games - card,top-right,,,6.0.1,1280,720,TRUE
+8634f274-1e14-4fc6-959f-ba778aa80b06,1571685557,Georgia,AT&T U-verse,a4pcet1,games - action,top-right,Sony,F3115,6,720,1280,TRUE
+6fddf02e-ec50-4c98-9e7e-82d29431139f,1570586860,New York,Verizon Fios,o4ncn4s,games - sports,right,ZTE,Z837VL,6.0.1,854,480,TRUE
+7e83aaee-b341-4773-92a7-c69d4c2b540d,1568713435,Texas,T-Mobile USA,c87caea,games - puzzle,left,ZTE,Z982,7.1.1,1920,1080,TRUE
+602f4b65-ad07-4d0c-a5b0-5fc9f8a19e94,1565252304,Ohio,WideOpenWest,o9ncat1,games - puzzle,left,,,7,1920,1200,TRUE
+3f8db0e0-04a0-45fe-91b1-acc8c463aa54,1567873159,Texas,Sprint PCS,62gct36,games - action,center,LG,LS676,6.0.1,720,1280,TRUE
+e8d94dfd-8c14-4a29-a722-831f2703f1c6,1573180863,Colorado,Comcast Cable,h4rr1da,games - arcade,right,ALCATEL,A574BL,7.1.1,480,854,TRUE
+663282da-75fe-4bbb-aff7-e15c0ca21fcb,1566732812,North Carolina,Wireless Data Service Provider Corporation,ef25ec1,games - arcade,top-left,,,7.1.1,720,1280,TRUE
+9a3ac207-c597-4f4a-ad48-38ccf3de3da7,1566371321,Massachusetts,Comcast Cable,pcn5pnt,games - puzzle,top,,,7,2220,1080,TRUE
+64594e46-10ba-4d03-96c0-93d52bafcd87,1569772446,Florida,Sprint PCS,gpsge4s,games - casual,top-right,LG,SP200,7.1.2,720,1280,TRUE
+5be6a3dd-66e5-45fb-9e7d-7a600cdc3118,1569278459,Georgia,T-Mobile USA,1s6ngdt,games - arcade,bottom-right,Samsung,SM-J327T1,7,720,1280,TRUE
+6e4cafba-f817-4d7b-935d-e9c4f7f4c48b,1569688467,Louisiana,Verizon Wireless,dpgna8s,games - action,top-right,Motorola,XT1635-02,8.0.0,1080,1920,TRUE
