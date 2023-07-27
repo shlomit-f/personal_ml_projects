@@ -26,7 +26,7 @@ Prediction of CTR:
 6. prediction models: KNN, XGBoost, Random Forest
 7. Explainable AI - SHAP
 
-##ARIMA Time Series Analysis
+## ARIMA Time Series Analysis
 Manual fit of ARIMA models (including stationary validation)
 
 # Statistics_projects
