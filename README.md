@@ -29,6 +29,12 @@ Prediction of CTR:
 ## ARIMA Time Series Analysis
 Manual fit of ARIMA models (including stationary validation)
 
+## Time Series Classification - WIP
+
+## Anomaly ditection - WIP
+DBSCAN, isolation forest, autoencoder
+
+
 # Statistics_projects
 ## Monte Carlo
 This project is using monte carlo method for prediction of covid 19 trends.
