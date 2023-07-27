@@ -10,7 +10,7 @@ Including:
 # classic_ml
 ## Unsupervised Clustering
 
-Implementation of kmeans and DB-scan:
+Implementation of Kmeans and DBSCAN:
 1. Data scaling + feature selection
 2. Parameters selection (k using silhouette and epsilon, min_points using KNN graph and silhouette)
 3. Models' training
