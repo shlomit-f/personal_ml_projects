@@ -26,13 +26,16 @@ Prediction of CTR:
 6. prediction models: KNN, XGBoost, Random Forest
 7. Explainable AI - SHAP
 
+# time_series
+
 ## ARIMA Time Series Analysis
 Manual fit of ARIMA models (including stationary validation)
 
+## Anomaly detection for time series
+Anomaly detection for time series incdluding EDA and comparison between the methods - Isolation forest,Autoencoder & DBSCAN.
+
 ## Time Series Classification - WIP
 
-## Anomaly ditection - WIP
-DBSCAN, isolation forest, autoencoder
 
 
 # Statistics_projects
